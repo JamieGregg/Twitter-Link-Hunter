@@ -16,9 +16,9 @@ https://developer.twitter.com/en/apply-for-access
 
 ## Finding links
 
-Run the program and enter in some keywords (These are the phrases we search for to find the links). Upon submitting this we will return the most common links from the last 500 tweets posted.
+Run the program and enter in some keywords (These are the phrases we search for to find the links). Upon submission it will return the most common links from the last 500 tweets posted.
 
 ## Most Common Use-Case
 
-I had the problem of searching for livestreams hunting through 100s of tweets trying to find a working link. The aim of this 
+I had the problem of searching for sporting livestreams hunting through 100s of tweets trying to find a working link. The aim of this 
 is to allow for rapid search of working streams.
