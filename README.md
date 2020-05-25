@@ -4,7 +4,7 @@ Search for any topic and get back populat link posted on twitter. A common use c
 
 ## Getting Started
 
-To get started clone the project and get yourself signed up to the twitter api to generate your own keys.
+To get started clone the project and get yourself signed up to the twitter api to generate your own keys (Keys in this project are now invalid).
 
 ### Prerequisites
 
